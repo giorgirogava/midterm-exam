@@ -64,5 +64,131 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BF31E46-1514-40B8-AA92-087F2057CD1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Concentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "emoji(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A76371A-A1D3-4EA5-80FF-5B94CA7B1180"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Concentration/Supporting Files/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1A76371A-A1D3-4EA5-80FF-5B94CA7B1180 - 30d97a977c1bb369"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration.AppDelegate.__allocating_init() -&gt; Concentration.AppDelegate"
+                  moduleName = "Concentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Documents/George_Rogava/Homeworks/MidTerm/MidTermProject/midterm-exam/Concentration/Supporting%20Files/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "1A76371A-A1D3-4EA5-80FF-5B94CA7B1180 - c4f8a86260e0faaa"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration.AppDelegate.init() -&gt; Concentration.AppDelegate"
+                  moduleName = "Concentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Documents/George_Rogava/Homeworks/MidTerm/MidTermProject/midterm-exam/Concentration/Supporting%20Files/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "1A76371A-A1D3-4EA5-80FF-5B94CA7B1180 - 41292c22af7e9813"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Concentration.AppDelegate.__deallocating_deinit"
+                  moduleName = "Concentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Documents/George_Rogava/Homeworks/MidTerm/MidTermProject/midterm-exam/Concentration/Supporting%20Files/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "1A76371A-A1D3-4EA5-80FF-5B94CA7B1180 - 997937cb23c4a90e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Concentration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Documents/George_Rogava/Homeworks/MidTerm/MidTermProject/midterm-exam/Concentration/Supporting%20Files/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C0CEA03-D8D5-499D-85C8-438236156392"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Concentration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "updateFlipCountLabel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABB1A9BE-811E-4113-9B05-DE3C0C7A2D65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Concentration/Supporting Files/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
